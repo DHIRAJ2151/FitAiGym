@@ -6,8 +6,6 @@ dj-database-url==2.1.0
 psycopg[binary]==3.1.18
 gunicorn==22.0.0
 whitenoise==6.7.0
-
-# ✅ FIXED versions
 supabase==1.0.3
 httpx==0.24.1
 postgrest==0.10.6
